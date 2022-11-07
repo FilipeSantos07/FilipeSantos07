@@ -1,7 +1,7 @@
 ### Hi there, I'm Filipe Santos 👋
 
 #### About
-I'm a Web Developer, studying Web Development at `Rocketseat`.
+I'm a Web Developer, studying web development at `Rocketseat`.
 
 #### Current Stack
 - Main language: `JavaScript`
