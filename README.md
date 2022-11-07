@@ -1,7 +1,7 @@
 ### Hi there, I'm Filipe Santos 👋
 
 #### About
-I'm just an ordinary guy who likes to give my best wherever i am.
+I'm just an ordinary guy who likes to give my best wherever i am, i can't wait to work!
 
 #### Current Stack
 - Main language: `JavaScript`
