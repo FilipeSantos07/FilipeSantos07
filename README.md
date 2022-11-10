@@ -5,7 +5,7 @@ I'm just an ordinary guy who likes to give my best wherever i am, and i can't wa
 
 #### Current Stack
 - Main language: `JavaScript`
-- Frontend: `HTML5`, `CSS3`, `Javascript`, `Reactjs`
+- Frontend: `HTML5`, `CSS3`, `JavaScript`, `Reactjs`
 - Layout Design: `Figma`
 - Code version control: `Git & Github`
 - Tools: `VsCode`
