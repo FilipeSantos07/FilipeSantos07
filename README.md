@@ -8,19 +8,20 @@ I'm just an ordinary guy who likes to give my best wherever i am, and i can't wa
 ### Technologies
 
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
+  <img alt="CSS" src="https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
   <img align="center" alt="js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   
   ### Tools
 
-  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/git-%230d1117.svg?style=for-the-badge&logo=git"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%230d1117.svg?style=for-the-badge&logo=GitHub"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-%230d1117.svg?style=for-the-badge&logo=Figma"/>
   
   ### Contact
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-santos-frontend/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/filipe_santos_07)
-  #### My Email : FilipeSantosEstudos1@gmail.com
+  <p align="justify">
+  <a href="https://www.linkedin.com/in/devnicolasoliveira/"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-  badge&logo=linkedin&logoColor=0077B5"/></a>
+  <a href="mailto:nicolasoliveira3002@gmail.com"><img src="https://img.shields.io/badge/gmail-%230d1117.svg?style=for-the-badge&logo=gmail&logoColor=0077B5"/></a>
+</p>
 </div><br/>
